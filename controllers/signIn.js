@@ -3,3 +3,24 @@
  */
 var express = require('express');
 var router = express.Router();
+var Users = require('../models/Users');
+
+
+
+router.post('/signUp', function (req, res) {
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+)};
+
+
+module.exports = router;
